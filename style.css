@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://media.pitchfork.com/photos/592c5f7feb335119a49f1330/2:1/w_790/580e569a.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+button{
+    color:rgb(186, 222, 233);
+    background-color: rgb(126, 7, 7);
+    margin-top: 10px;
+    text-align: center;
+}
+#ye{
+    background-color: rgba(186, 222, 233, 0.575);
+    text-align: center;
+}
+main{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 130px;
+    color: rgb(54, 29, 29);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
